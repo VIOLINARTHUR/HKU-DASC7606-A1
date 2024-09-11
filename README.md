@@ -125,8 +125,8 @@ For any other private questions, please contact Tianshuo Yang (yangtianshuo@conn
 ## 4 Marking Scheme:
 Marks will be given based on the performance that you achieve on the test and the submitted report file. TAs will perform an evaluation of the model predictions.
 
-The evaluation criteria are divided into two primary components: (1) model performance on the test datasets, and (2) the quality of the final report, with the latter accounting for 30% of the total marks:
-1. Coding and Model Performance (70% of total marks):
+The evaluation criteria are divided into two primary components: (1) model performance on the test datasets, and (2) the quality of the final report, with the latter accounting for 20% of the total marks:
+1. Coding and Model Performance (80% of total marks):
 
     Marks will be given based on your coding and the performance of your model. 
     - For the coding part, you need to complete all the required codes in order to get the full score. Partial score will be considered rarely and carefully.
@@ -138,13 +138,12 @@ The evaluation criteria are divided into two primary components: (1) model perfo
         - Accuracy between 50-60% will get 60% mark of this part.
         - Others will get 0% mark.
 
-2. Final Report (30% of total marks): 
+2. Final Report (20% of total marks): 
 
     The marks will be given mainly based on the richness of the experiments & analysis.
-    - Rich experiments + detailed analysis: 90%-100% mark of this part.
-    - Reasonable number of experiments + analysis: 70%-80% mark of this part.
-    - Basic analysis: 50%-60% mark of this part.
-    - Not sufficient analysis: lower than 50%.
+    - Reasonable number of experiments + analysis: 90%-100% mark of this part.
+    - Basic analysis: 80%-90% mark of this part.
+    - Not sufficient analysis: lower than 80%.
 
 ## Reference
 1. ImageNet Classification with Deep Convolutional Neural Networks. NIPS 2012: [pdf](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
