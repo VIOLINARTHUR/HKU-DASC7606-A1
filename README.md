@@ -48,6 +48,7 @@ To use python3, make sure to install version 3.8+ on your local machine.
 
 **Virtual environment**: The use of a virtual environment via Anaconda is recommended for this project. If you choose not to use a virtual environment, it is up to you to make sure that all dependencies are installed. To establish a Conda virtual environment, execute the following commands:
 ```bash
+git clone https://github.com/VIOLINARTHUR/HKU-DASC7606-A1.git
 conda create -n cv_env python=3.10
 conda activate cv_env
 ```
