@@ -118,7 +118,7 @@ Late submission policy:
 
 ### 3.5 Need More Support?
 For any questions about the assignment which potentially are common to all students, your shall first look for related resources as follows,
-- We encourage you to use [GitHub Issues]() of this repository.
+- We encourage you to use [GitHub Issues](https://github.com/VIOLINARTHUR/HKU-DASC7606-A1/issues) of this repository.
 - Or if you prefer online doc: [Discussion doc]().
 
 For any other private questions, please contact Tianshuo Yang (yangtianshuo@connect.hku.hk) via email.
