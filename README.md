@@ -68,7 +68,7 @@ pip install tqdm
 Everything you need to do is provided in the [Jupyter notebook](Assignment_1.ipynb)! **Please make sure to follow the instructions in this [tutorial](https://www.cs.hku.hk/gpu-farm/quickstart#:~:text=Running%20Jupyter%20Lab%20without%20Starting%20a%20Web%20Browser) to set up Jupyter Lab.** Running the example section will automatically download the required data. If you are unable to run the Jupyter notebook, you will need to manually export the code blocks as Python files and organize them accordingly (which is also a great practice opportunity!).
 
 ### 3.2 Assignment tasks
-**Task 1: Filling in the blank**
+**Task 1: Fill in the blank**
 
 There are nine code blocks in the [Jupyter notebook](Assignment_1.ipynb) that require you to complete them.
 
