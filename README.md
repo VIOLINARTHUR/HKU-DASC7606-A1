@@ -44,7 +44,7 @@ If you have the GPU resources on your own PC/laptop and wish to use that, thatâ€
 
 ## 2.3 Environment Setup
 **Installing Python 3.8+**: 
-To use python3, make sure to install version 3.8+ on your local machine.
+To use python3, make sure to install version 3.8+ on your machine.
 
 **Virtual environment**: The use of a virtual environment via Anaconda is recommended for this project. If you choose not to use a virtual environment, it is up to you to make sure that all dependencies are installed. To establish a Conda virtual environment, execute the following commands:
 ```bash
