@@ -26,6 +26,8 @@ From this perspective, category-based generation and image-based classification 
 
 **"Compress what is similar; contrast what is dissimilar."** Starting from **Assignment 1**, you are encouraged to understand this core concept.
 
+![image.png](Yi_Ma_Dang_Xian.png)
+
 # 2 Setup
 You can work on the assignment in one of two ways: locally on your own machine, or on a virtual machine on HKU GPU Farm.
 
