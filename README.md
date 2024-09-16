@@ -63,6 +63,7 @@ Install other requirements:
 ```bash
 pip install matplotlib
 pip install tqdm
+pip install jupyterlab
 ```
 
 ## 3 Working on the assignment
