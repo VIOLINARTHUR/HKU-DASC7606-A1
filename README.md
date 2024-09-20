@@ -97,7 +97,10 @@ Your report should include three main sections: introduction, method, and experi
 
 3. Model Weights
 
-    Models, in the format of model checkpoint link (model_link.txt) due to the limitation on submission file size.
+    If your checkpoint is less than 30MB, you can directly submit the model weights. 
+
+    If your checkpoint is larger than 30MB, you can submit the model weights in the format of model checkpoint link (model_link.txt) due to the limitation on submission file size. Recommended to use Google Drive or Dropbox to share the model weights.
+
     Please ensure adherence to model naming conventions and ensure compatibility with the code.
 
 If your student id is 30300xxxxx, then the compressed file for submission on Moodle should be organized as follows:
@@ -105,12 +108,19 @@ If your student id is 30300xxxxx, then the compressed file for submission on Moo
 30300xxxxx.zip
 ├── report.pdf
 ├── your code (Must include the Assignment_1.ipynb file)
-├── model_link.txt
+├── checkpoint / model_link.txt
 └── (optional) README.md
 ```
 ### 3.4 Timeline
+**For Section 1A & 1B:**
+
 September 12, 2024 (Thu.): The assignment release.  
 October 8, 2024 (Tue.): Submission deadline (23:59 GMT+8).
+
+**For Section 1D:**
+
+September 20, 2024 (Fri.): The assignment release.  
+October 18, 2024 (Fri.): Submission deadline (23:59 GMT+8).
 
 Late submission policy:
 
